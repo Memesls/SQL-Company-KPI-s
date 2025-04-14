@@ -1,5 +1,5 @@
 # SQL-Company-KPI-s
-SQL data exploration that shows KPIs needed by X company
+SQL data exploration that returns common KPIs needed by a company
 
 In this project, I:
 
