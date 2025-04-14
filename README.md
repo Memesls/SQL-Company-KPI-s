@@ -1,5 +1,8 @@
 # SQL-Company-KPI-s
-SQL data exploration that returns common KPIs needed by a company
+SQL data exploration that returns common KPIs needed by a company.
+
+The queries I ran are in the "coffee_shop_sales_db.sql" file. I included comments to improve their readability.
+The raw file can also be found as a .csv in the repository files.
 
 In this project, I:
 
@@ -10,6 +13,7 @@ In this project, I:
 5. Added some extra KPIs later used in a Power BI dashboard (not part of this repository).
 
 Required KPIs were:
+
 1. Total Sales Analysis:
   ○ Calculate the total sales for each respective month.
   ○ Determine the month-on-month increase or decrease in sales.
