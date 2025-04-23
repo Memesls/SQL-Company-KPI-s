@@ -7,7 +7,7 @@ The raw file can also be found as a .csv in the repository files.
 In this project, I:
 
 1. Created a database in MySQL.
-2. Imported the relevant data to the table.
+2. Imported the relevant data into the table.
 3. Modified, updated, and altered the column types and format of the data.
 4. Calculated the requested KPIs, which are noted below.
 5. Added some extra KPIs later used in a Power BI dashboard (not part of this repository).
